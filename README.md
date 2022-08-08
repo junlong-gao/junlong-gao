@@ -2,7 +2,7 @@ Welcome! I am a software engineer and have been working on distributed storage s
 
 
 - [Design Patterns](https://github.com/junlong-gao/recreations/tree/master/random_notes/design-pattern)
-- [A Collection of C++ Code](https://github.com/junlong-gao/recreations/tree/master/code_practise/leetcode)
+- ["Code Crunching"](https://github.com/junlong-gao/recreations/tree/master/code_practise/leetcode)
 - More to be added here
 
 Prior to my professional career, I was at Shanghai Jiaotong University and obtained my bachelor's degree in Computer Science at the University of Michigan.
