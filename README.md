@@ -8,6 +8,11 @@
 
 Welcome! I am a software engineer and have been working on distributed storage systems professionally. During my spare time, I enjoy venturing my own endeavor into recreational algorithmic challenges and many avenues in mathematics.
 
+
+- [Design Patterns](https://github.com/junlong-gao/recreations/tree/master/random_notes/design-pattern)
+- [A Collection of C++ Code](https://github.com/junlong-gao/recreations/tree/master/code_practise/leetcode)
+- More to be added here
+
 Prior to my professional career, I was at Shanghai Jiaotong University and obtained my bachelor's degree in Computer Science at the University of Michigan.
 
 You can connect me at [linkedin](https://www.linkedin.com/in/junlong-gao/) and email me at junlonga at umich dot edu.
