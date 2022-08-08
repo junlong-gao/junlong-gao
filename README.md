@@ -7,7 +7,7 @@ Welcome! I am a software engineer and have been working on distributed storage s
 
 Prior to my professional career, I was at Shanghai Jiaotong University and obtained my bachelor's degree in Computer Science at the University of Michigan.
 
-You can connect me at [linkedin](https://www.linkedin.com/in/junlong-gao/) and email me at junlonga at umich dot edu.
+You can connect me at [linkedin](https://www.linkedin.com/in/junlong-gao/) and email me at gao dot junlong at icloud dot com, or previously junlonga at umich dot edu.
 
 > ... Later there will be, I hope, some people who will find it to their advantage to decipher all this mess
 
